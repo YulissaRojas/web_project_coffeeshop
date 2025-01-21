@@ -27,9 +27,8 @@
   flex-direction: column;
   position: relative;
   max-width: 709px;
-  margin-top: 183px;
   left: 80px;
-  font-family: "Inter", Arial;
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 58px;
@@ -54,7 +53,7 @@
   max-width: 683px;
   margin-top: 28px;
   left: 80px;
-  font-family: "Noto Serif", "Times New Roman", serif;
+  font-family: "Noto Serif", Times, serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
