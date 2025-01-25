@@ -1,2 +1,51 @@
 .footer {
+  display: flex;
+  height: 100%;
+  position: relative;
+  flex-direction: column;
+  color: #fff;
+  background-color: #0a2850;
+  overflow: hidden;
+}
+
+.footer__logo {
+  width: 105px;
+  height: 39px;
+}
+
+.footer__circle {
+  border-radius: 100%;
+  z-index: 0;
+  width: 340px;
+  height: 340px;
+  background-color: #2f80ed;
+  top: -128px;
+  left: -44px;
+}
+
+.footer__social-heading {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.footer__social-icon {
+}
+
+.footer__social-link {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.footer__copyright {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
 }
